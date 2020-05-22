@@ -1,0 +1,10 @@
+# Editor settings
+.idea/
+.vscode/
+
+# Test files
+*.kks
+*.gv
+
+# Compiled files
+*.class
